@@ -8,11 +8,7 @@ categories: [Dev]
 tags: [meta, blogging]     # TAG names should always be lowercase
 ---
 
-
-_Cover photo by <a href="https://unsplash.com/@glenncarstenspeters?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Glenn Carstens-Peters</a> on <a href="https://unsplash.com/s/photos/typing?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>_
-
-> First published at [dev.to](https://dev.to/gervg/finally-starting-a-blog-3i3l)
-{: .prompt-info }
+_First published at [dev.to](https://dev.to/gervg/finally-starting-a-blog-3i3l)_
 
 ---
 
@@ -63,3 +59,6 @@ Maybe I don't and everything goes well. Then I guess I'll just have fun writing 
 ## Relevant articles
 - [How to overcome your fear of writing by writing like you code](https://www.freecodecamp.org/news/how-to-overcome-your-fear-of-writing-by-writing-like-you-code-d0d6edb9ff62/)
 - [Why developers should know how to write](https://www.freecodecamp.org/news/why-developers-should-know-how-to-write-dc35aa9b71ab)
+
+## Credits
+- Cover photo by <a href="https://unsplash.com/@glenncarstenspeters?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Glenn Carstens-Peters</a> on <a href="https://unsplash.com/s/photos/typing?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
