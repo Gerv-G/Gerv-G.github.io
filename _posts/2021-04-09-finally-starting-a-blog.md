@@ -4,12 +4,8 @@ date: 2021-04-09
 image:
   path: https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fml7c1sg8y0cdnljvnj5n.jpg
 canonical_url: https://dev.to/gervg/finally-starting-a-blog-3i3l
-categories: [Dev]
+categories: [SoftwareDev]
 tags: [meta, blogging]     # TAG names should always be lowercase
----
-
-_First published at [dev.to](https://dev.to/gervg/finally-starting-a-blog-3i3l)_
-
 ---
 
 Hello World, Hello Dev! I'm Gervin and I have been a lurker here in [dev.to](http://dev.to) since 2017 (I think it was still called Practical Dev back then?), around the same time I started my career as a software engineer.
@@ -56,6 +52,7 @@ Maybe I don't and everything goes well. Then I guess I'll just have fun writing 
 
 ---
 <br/>
+
 ## Relevant articles
 - [How to overcome your fear of writing by writing like you code](https://www.freecodecamp.org/news/how-to-overcome-your-fear-of-writing-by-writing-like-you-code-d0d6edb9ff62/)
 - [Why developers should know how to write](https://www.freecodecamp.org/news/why-developers-should-know-how-to-write-dc35aa9b71ab)
