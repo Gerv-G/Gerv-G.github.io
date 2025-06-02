@@ -5,7 +5,7 @@ image:
   path: https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flv2cd3dep7806fxyfwad.jpg
 canonical_url: https://dev.to/gervg/in-defense-of-the-spaghetti-code-1oha
 categories: [SoftwareDev]
-tags: [code-quality]
+tags: [code-quality, software-engineering]
 ---
 
 

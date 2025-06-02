@@ -5,7 +5,7 @@ image:
   path: https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5vrtu3hmi31ea96chv92.jpg
   canonical_url: https://dev.to/gervg/musings-on-my-5th-year-as-a-software-engineer-5dcn
 categories: [SoftwareDev]
-tags: [career, retrospective]
+tags: [career, retrospective, software-engineering]
 ---
 
 I still remember my first day on the job. From the bus stop, I walked under the summer’s day heat dripping with sweat in my button-up shirt. And as I reach the surrounding buildings, I had hoped to seek comfort in the shade and breeze. But I was instead welcomed with what felt like a hot humid breath. Finally, there I was at the office door looking like I overcame an hour of trekking - not the first impression I wish to make. At that point, I’m no longer sure if I was sweating because of the weather or because of nervousness.
