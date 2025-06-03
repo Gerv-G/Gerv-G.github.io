@@ -1,43 +1,43 @@
-# Chirpy Starter
+# Gerv-G Blog
 
-[![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
-[![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
+Welcome to my personal blog, powered by Jekyll and hosted on GitHub Pages! Here I share thoughts on software development, programming, and career retrospectives.
 
-When installing the [**Chirpy**][chirpy] theme through [RubyGems.org][gem], Jekyll can only read files in the folders
-`_data`, `_layouts`, `_includes`, `_sass` and `assets`, as well as a small part of options of the `_config.yml` file
-from the theme's gem. If you have ever installed this theme gem, you can use the command
-`bundle info --path jekyll-theme-chirpy` to locate these files.
+## 🚀 Features
 
-The Jekyll team claims that this is to leave the ball in the user’s court, but this also results in users not being
-able to enjoy the out-of-the-box experience when using feature-rich themes.
+- Built with [Jekyll](https://jekyllrb.com/) and the Chirpy theme (using [Chirpy Starter](https://github.com/cotes2020/chirpy-starter))
+- Categorized and tagged for easy navigation
+- Responsive, fast, and easy to maintain
 
-To fully use all the features of **Chirpy**, you need to copy the other critical files from the theme's gem to your
-Jekyll site. The following is a list of targets:
+## 🛠️ Local Development
 
-```shell
-.
-├── _config.yml
-├── _plugins
-├── _tabs
-└── index.html
+To run the site locally in this dev container:
+
+```sh
+./tools/run.sh
 ```
 
-To save you time, and also in case you lose some files while copying, we extract those files/configurations of the
-latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so that you can start writing in minutes.
+Then open the local server URL in your browser.
 
-## Usage
+To build the site for production:
 
-Check out the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy/wiki).
+```sh
+./tools/test.sh
+```
 
-## Contributing
+## 📂 Project Structure
 
-This repository is automatically updated with new releases from the theme repository. If you encounter any issues or want to contribute to its improvement, please visit the [theme repository][chirpy] to provide feedback.
+- `_posts/` — Blog posts in Markdown
+- `_data/` — Site data (authors, contact, etc.)
+- `_tabs/` — Navigation tabs (About, Archives, Categories, Tags)
+- `assets/` — Images and favicons
+- `_plugins/` — Custom Jekyll plugins
 
-## License
+## 📝 Contributing
 
-This work is published under [MIT][mit] License.
+Pull requests are welcome! Though I'm wondering why you'd care that much :D
+For major changes, please open an issue first to discuss what you’d like to change.
 
-[gem]: https://rubygems.org/gems/jekyll-theme-chirpy
-[chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
-[CD]: https://en.wikipedia.org/wiki/Continuous_deployment
-[mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+## 📄 License
+
+This project is licensed under the MIT License.
+
