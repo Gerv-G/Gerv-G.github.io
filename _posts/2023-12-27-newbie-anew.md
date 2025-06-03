@@ -8,14 +8,14 @@ tags: [career, software-engineering, retrospective]
 
 I always tell people that “new things” make working in software development constantly exciting. And when I say new things, I just don’t mean bleeding-edge technology. I mean new problems, new approaches, or new patterns - even if they are just new to the person. What I have not told them is that with these exciting opportunities comes the nerve-wracking ordeal of facing unknowns.
 
-When I was writing my [5th-year retrospect]({% post_url 2022-07-17-musings-on-5th-yr-career %}), I felt like I knew a lot. I thought I had already reached a certain level of mastery that would make me qualified to share my knowledge and experiences. And it was around the same time last year when I started a new job . That’s when I realized that *I don’t know sh*t*.
+When I was writing my [5th-year retrospect]({% post_url 2022-07-17-musings-on-5th-yr-career %}), I felt like I knew a lot. I thought I had already reached a certain level of mastery that would make me qualified to share my knowledge and experiences. And it was around the same time last year when I started a new job. That’s when I realized that *I don’t know sh*t*.
 
 It was overwhelming, to say the least: different domain, tech stack, people, and culture. There were times when I felt dumb and undeserving to be there. Impostor syndrome perhaps? But…
 
 ![Impostor syndrome comic](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vyxwxyevvdr5r3tav030.png)
 _Artist: [Gemma Correll](https://twitter.com/gemmacorrell/status/1441500836840886275)_
 
-And since it's time for a "year in review" post anyway, I sat down and look back at the struggles I had and the steps I’ve taken so far.
+And since it's time for a "year in review" post anyway, I sat down and looked back at the struggles I had and the steps I’ve taken so far.
 
 ## Unfamiliar Domain
 I previously worked for a digital bank for 3 years, and I more or less became the *de facto* subject matter expert on a few of our microservices. While I did enjoy being the go-to person, I eventually hit a point where I began wanting to try something different.
