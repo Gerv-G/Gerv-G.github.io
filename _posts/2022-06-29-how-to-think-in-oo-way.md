@@ -107,10 +107,8 @@ This gives us the option to be either very specific or more generic depending on
 
 When houses or buildings are made, they don’t just magically appear out of thin air (duh). It starts with a careful plan detailing its structure and contents - the blueprint. The blueprint then becomes the basis when the construction begins.
 
-<figure>
-  <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7m9kdax60ea65rjknrfq.jpg">
-  <figcaption>Blueprint. Image by [Damon McCullough](https://unsplash.com/@d_mccullough) on [Unsplash](https://unsplash.com/photos/HtBlQdxfG9k) </figcaption>
-</figure>
+![Blueprint being drawn](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7m9kdax60ea65rjknrfq.jpg)
+_Blueprint. Image by [Damon McCullough](https://unsplash.com/@d_mccullough) on [Unsplash](https://unsplash.com/photos/HtBlQdxfG9k)_
 
 In OOP, it’s the same. You start with a `class` that defines how your object is going to behave and look like.
 
@@ -147,10 +145,8 @@ anotherBrandNewHouse.color = "blue"; //A blue house
 
 ### 3. Grouping of Data
 
-<figure>
-  <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/n7x3bejhg4o3aoevzd8u.jpg">
-  <figcaption>Pizza in a box. Image by [Lukas Bee](https://unsplash.com/@lukasbee) on [Unsplash](https://unsplash.com/photos/T-SkHm-18qQ) </figcaption>
-</figure>
+![Pizza in a box](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/n7x3bejhg4o3aoevzd8u.jpg)
+_Pizza in a box. Image by [Lukas Bee](https://unsplash.com/@lukasbee)_
 
 Suppose we want to create an app for a pizza shop. One may write `Pizza` as follows:
 
@@ -201,10 +197,8 @@ For the purposes of this discussion, we’re going to oversimplify the parts of 
 
 With just this basic parts, maybe our car would look something like this:
 
-<figure>
-  <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/z7atjfsu41skhm8a46qi.png">
-  <figcaption>The first automobile. I don’t even know if this thing has brakes. Source: [Mercedez-Benz Group](https://group.mercedes-benz.com/company/tradition/company-history/1885-1886.html) </figcaption>
-</figure>
+![First automobile](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/z7atjfsu41skhm8a46qi.png)
+_he first automobile. I don’t even know if this thing has brakes. Source: [Mercedez-Benz Group](https://group.mercedes-benz.com/company/tradition/company-history/1885-1886.html)_
 
 Notice how each of the parts have their distinct purpose? So instead of just dumping every behavior in a single class called `Car` , we can opt to a separate each part into their own classes and assemble together later.
 
@@ -322,12 +316,13 @@ Remember the *Bring Me Example* earlier? This is exactly the same except that th
 
 The port creates a physical boundary between the phone and the external device. And this allows us to easily swap out the device we’re connecting to it.
 
-> 💡 Agnostic and loose coupling
-The phone port is a good demonstration of how components should be *agnostic* and *loosely coupled* to one another.
+> **Agnostic and loose coupling**
+> 
+> The phone port is a good demonstration of how components should be *agnostic* and *loosely coupled* to one another.
 Agnostic refers to a component being ignorant of the thing being plugged to it as long as it fits certain characteristics. In this case, the phone can handle either charging or file transfer as long as you use the designated connector for its port.
 Loosely coupled means you can attach or detach something from a component and the component can still act independently without the other. When you disconnect your charger from your phone, your phone still functions normally (as long as you have battery of course!)
 In significantly large projects, software components are designed to be loosely coupled so they can be easier to modify, fix, or test in isolation. One example is the database access. With interfaces, we can connect our application to a different database i.e. an in-memory database which only stores data temporarily. This can serve as a fake database where we can conduct our tests safely instead of connecting directly to a real persistent one.
->
+{: .prompt-tip}
 
 ---
 
@@ -347,4 +342,6 @@ In significantly large projects, software components are designed to be loosely 
 
 ---
 
-*Cover photo by [Robin Glauser](https://unsplash.com/@nahakiole) on [Unsplash](https://unsplash.com/photos/zP7X_B86xOg?utm_source=63921&utm_medium=referral)*
+## Credits
+
+- Cover photo by [Robin Glauser](https://unsplash.com/@nahakiole) on [Unsplash](https://unsplash.com/photos/zP7X_B86xOg?utm_source=63921&utm_medium=referral)
