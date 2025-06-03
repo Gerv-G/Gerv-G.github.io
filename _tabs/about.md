@@ -34,4 +34,3 @@ I don't know why you would, but if you have trouble finding ways to spend your m
 
 
 ---
-{: .prompt-tip }
