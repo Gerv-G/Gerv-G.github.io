@@ -8,9 +8,9 @@ categories: [SoftwareDev]
 tags: [meta, blogging]     # TAG names should always be lowercase
 ---
 
-Hello World, Hello Dev! I'm Gervin and I have been a lurker here in [dev.to](http://dev.to) since 2017 (I think it was still called Practical Dev back then?), around the same time I started my career as a software engineer.
+Hello World, Hello Dev! I'm Gervin and I have been a lurker here in [dev.to](https://dev.to) since 2017 (I think it was still called Practical Dev back then?), around the same time I started my career as a software engineer.
 
-Fresh from college, I was hungry for knowledge and immersion. I was really glad when I found this community. I never knew that there's so much more in software development than just knowing how to write code, and [dev.to](http://dev.to) helped me realize that.
+Fresh from college, I was hungry for knowledge and immersion. I was really glad when I found this community. I never knew that there's so much more in software development than just knowing how to write code, and [dev.to](https://dev.to) helped me realize that.
 
 As one former colleague puts it:
 

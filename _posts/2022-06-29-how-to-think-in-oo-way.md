@@ -79,7 +79,7 @@ These are all wildly different but they all fit our basic idea of what a box sho
 _Assorted Boxes. Image by [Chuttersnap](https://unsplash.com/@chuttersnap) on [Unsplash](https://unsplash.com/photos/7eQlPra81zQ)_
 
 
-If we were to play a [Bring Me game](http://rosietheclown.ca/parties/?p=116) and I say “bring me a box”, I can accept any of those boxes we’ve mentioned.
+If we were to play a [Bring Me game](https://jessejoyner.com/bring-me-game-ideas/) and I say “bring me a box”, I can accept any of those boxes we’ve mentioned.
 
 ```java
 void accept(Box box) {    //any box will be accepted
@@ -329,8 +329,8 @@ In significantly large projects, software components are designed to be loosely 
 ## Notes and Further Reading
 
 - Alan Kay, who coined the term object-oriented, said that the real big idea in OOP is messaging rather than objects. I dare not question his authority on the proper definition of OOP. But I also think that there is value to what it has become and how it is being used today even though it may have deviated from the original intent. If you want to read more about Alan Kay’s clarifications on OOP, check these out:
-    - [Alan Kay On Messaging (c2.com)](http://wiki.c2.com/?AlanKayOnMessaging)
-    - [Dr. Alan Kay on the Meaning of "Object-Oriented Programming" (fu-berlin.de)](http://userpage.fu-berlin.de/~ram/pub/pub_jf47ht81Ht/doc_kay_oop_en)
+    - [Alan Kay On Messaging (c2.com)](https://wiki.c2.com/?AlanKayOnMessaging)
+    - [Dr. Alan Kay on the Meaning of "Object-Oriented Programming" (fu-berlin.de)](https://userpage.fu-berlin.de/~ram/pub/pub_jf47ht81Ht/doc_kay_oop_en)
 - While writing about using types to categorize things, I couldn’t help but remember the existence of *category theory*. While OOP may have its roots in mathematics, I did not mean *category* in that sense. I won’t dare use that in my explanation since I don’t have sufficient knowledge for it. I simply felt that *category* may be an easier word than *type* but I failed to consider that it might imply another thing. But in case you want to read more, you may check out *Category Theory for Programmers* by Bartosz Mileweski. It’s on my reading list as well. Here’s a free copy:
     - https://github.com/hmemcpy/milewski-ctfp-pdf
 - Earlier I mentioned “GoF Design Patterns”. This refers to the the book *Design Patterns: Elements of Reusable Object-Oriented Software* written by Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides aka the Gang of Four (GoF). It’s considered a classic among OO programmers. Here’s a summary I frequent to whenever I need a refresher:

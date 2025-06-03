@@ -105,7 +105,7 @@ In case you're interested and wanted to try it or do some reading on your own, h
 This is the original source of the idea as far as I know.
 - [How to Publish Open Source Java Libraries to Maven Central](https://entzik.medium.com/how-to-publish-open-source-java-libraries-to-maven-central-70f9232462f5) by Emil Kirschner.
 I read other guides too but his is the easiest to follow despite it being written in Kotlin
-- [GPG Cheat Sheet](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/)
+- [GPG Cheat Sheet](https://irtfweb.ifa.hawaii.edu/~lockhart/gpg/)
 - A bunch of functional-programming articles
     - [Functors, Applicatives, And Monads In Pictures](https://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html) by Adit Bhargava
     - [Your easy guide to Monads, Applicatives, & Functors](https://medium.com/@lettier/your-easy-guide-to-monads-applicatives-functors-862048d61610)

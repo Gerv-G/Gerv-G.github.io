@@ -22,10 +22,8 @@ But changing our process for the sake of imitating a model organization or fitti
 
 One of my observations in using GitFlow is that it tends to have a lot and I mean A LOT of branches, some which are long-living, just to release a feature or issue fixes. Just take a look at this diagram:
 
-<figure>
-  <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y9e3rkj9gktfxvo3zsiq.png">
-  <figcaption>Fig1. GitFlow branching strategy. [Source](https://nvie.com/posts/a-successful-git-branching-model/)</figcaption>
-</figure>
+![Gitflow branching model](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y9e3rkj9gktfxvo3zsiq.png)
+_GitFlow branching strategy. [Source](https://nvie.com/posts/a-successful-git-branching-model/)_
 
 Having multiple branches isn't bad per se. In fact, GitFlow is great for simultaneously managing multiple versions, such as in our case, where we have different versions in production, UAT, and DevTest environments. I think GitFlow is really good at enabling developer independence and isolation of changes. That way, you can work with one version without worrying that the other versions will be affected.
 

@@ -198,10 +198,8 @@ $ rm -r src/main/java/HelloUnitTesting
 $ rm -r src/test/java/HelloUnitTesting
 ```
 
-<figure>
-  <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cs66g1h560qctdwjtvkn.png">
-  <figcaption>Project directory after deleting some files</figcaption>
-</figure>
+![Project directory after deleting some files](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cs66g1h560qctdwjtvkn.png)
+_Project directory after deleting some files_
 
 Then we need to reorganize our code and put them inside the `main/java/` folder. To do this, you can either drag the `com.gerv.guev` (or whatever your existing package name is) to `main/java/` or do it via terminal again
 
@@ -481,7 +479,7 @@ We've barely scratched the surface of unit testing and there's a lot more to it 
 ## Relevant Articles
 
 - Parasoft has a quick guide on setting up JUnit and it even teaches how to use it without build tools like Gradle or Maven. Go check it out [here](https://www.parasoft.com/junit-tutorial-setting-up-writing-and-running-java-unit-tests/)
-- There are other excellent testing frameworks available for Java such as [TestNG](https://testng.org/doc/) and [Spock](http://spockframework.org/spock/docs/1.3/index.html). I personally prefer Spock over JUnit because of some features and syntactic sugars. The caveat is it's written using [Groovy](https://groovy-lang.org/) which is a dynamically-typed language. It might be hard for beginners to quickly grasp it on top of understanding unit-testing.
+- There are other excellent testing frameworks available for Java such as [TestNG](https://testng.org/doc/) and [Spock](https://spockframework.org/spock/docs/1.3/index.html). I personally prefer Spock over JUnit because of some features and syntactic sugars. The caveat is it's written using [Groovy](https://groovy-lang.org/) which is a dynamically-typed language. It might be hard for beginners to quickly grasp it on top of understanding unit-testing.
 - For .NET users, there's [XUnit](https://xunit.net/) as the de facto testing framework for .NET applications. It's (arguably) the successor of the older [NUnit](https://nunit.org/). For other languages, just try appending the first few letters of what ever language you're using then "-Unit". For example, JSUnit, PhpUnit, PyUnit, etc.
 - Some software development techniques such as [Test-Driven Development (TDD)](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530) and Behavior-Driven Development (BDD) are anchored in the mastery of unit testing. These techniques will help you consciously develop features while also maintaining robustness of your system over time.
 - If you're an intermediate or advanced programmer, I strongly recommend that you read Martin Fowler's articles on [Unit Testing](https://martinfowler.com/bliki/UnitTest.html#:~:text=I%20think%20that%20the%20term,that%20unit%20is%20working%20correctly), other [levels of testing](https://martinfowler.com/articles/practical-test-pyramid.html#UnitTests) and the concept of [self-testing code](https://martinfowler.com/bliki/SelfTestingCode.html)

@@ -16,7 +16,7 @@ But few months ago, I hit a milestone - I’m now in my 5th year in the industry
 
 - [Career](#on-career) - general stuff that I have learned so far in my career progression
 - [Way of Working](#on-way-of-working) - the nuances of working with other people and the software development process
-- [Software craftsmanship](software-craftsmanship) - the tacit knowledge that influences me on how I write software
+- [Software craftsmanship](#software-craftsmanship) - the tacit knowledge that influences me on how I write software
 
 The bullet points below are not written in any particular order. You may simply skim through them and pick up whichever you think interests (or intrigues?) you.
 
