@@ -39,5 +39,6 @@ For major changes, please open an issue first to discuss what you’d like to ch
 
 ## 📄 License
 
-This project is licensed under the MIT License.
+- Code (Jekyll + Chirpy theme and customizations): [MIT](./LICENSE-Code.md)
+- Content (posts, images): [CC BY 4.0](./LICENSE-content.md)
 
