@@ -139,7 +139,7 @@ As I build these prototypes, I realized I have been leaning so much on AI. I won
 
 I’ve always preached that software engineering is way more than that, but it is only now that I’m coming to my senses. Having AI by my side has allowed me to pour some of my brain power into [thinking more about the product holistically](https://www.atlassian.com/agile/product-management/product-engineering).
 
-In case you’re lazy and doesn’t want to click that link, simply put a product engineer is someone who doesn’t stop at “how do we build this?” but also asks “why are we building this?” and “who is it really for?” It’s about complimenting our technical skill set with product sense, user empathy, and the ability to weigh trade-offs beyond just the code.
+In case you’re lazy and don’t want to click that link, simply put a product engineer is someone who doesn’t stop at “how do we build this?” but also asks “why are we building this?” and “who is it really for?” It’s about complimenting our technical skill set with product sense, user empathy, and the ability to weigh trade-offs beyond just the code.
 
 I’m only just starting to make that shift myself. These days, I try my best to think less about the technical aspects and more about the shape of the problem, the customer need, or the experiment we’re really trying to run. And I’m grateful, honestly, that I happen to be in a team and role that gives me the space to practice that muscle.
 
