@@ -7,11 +7,11 @@ search: exclude
  xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   {% for page in site.pages %}
-    {% if page.url contains '.xml' or page.url contains 'feed' or page.url contains 'norobots' %}
+    {% if page.url contains '.xml' or page.url contains 'feed' or page.url contains 'norobots' or page.url contains 'robots.txt' or page.url contains '.json' %}
       <!-- skip -->
     {% else %}
       <url>
-        <loc>{{ site.url }}{{ page.url | remove_trailing_slash }}</loc>
+        <loc>{{ site.url }}{{ page.url }}</loc>
         {% if page.last_modified_at or page.date %}
           <lastmod>
             {% if page.last_modified_at %}
@@ -32,7 +32,7 @@ search: exclude
   {% endfor %}
   {% for post in site.posts %}
     <url>
-      <loc>{{ site.url }}{{ post.url | remove_trailing_slash }}</loc>
+      <loc>{{ site.url }}{{ post.url }}</loc>
       {% if post.last_modified_at or post.date %}
         <lastmod>
           {% if post.last_modified_at %}
