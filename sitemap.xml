@@ -7,9 +7,7 @@ search: exclude
  xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   {% for page in site.pages %}
-    {% if page.url contains '.xml' or page.url contains 'feed' or page.url contains 'norobots' or page.url contains 'robots.txt' or page.url contains '.json' %}
-      <!-- skip -->
-    {% else %}
+    {% unless page.url contains '.xml' or page.url contains 'feed' or page.url contains 'norobots' or page.url contains 'robots.txt' or page.url contains '.json' or page.url contains '.css' or page.url contains '.js' or page.url contains '/assets/' or page.url contains '.webmanifest' or page.url contains 'google' or page.url contains '.min' %}
       <url>
         <loc>{{ site.url }}{{ page.url }}</loc>
         {% if page.last_modified_at or page.date %}
@@ -28,7 +26,7 @@ search: exclude
           <priority>{{ page.priority }}</priority>
         {% endif %}
       </url>
-    {% endif %}
+    {% endunless %}
   {% endfor %}
   {% for post in site.posts %}
     <url>
