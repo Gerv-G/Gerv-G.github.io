@@ -7,6 +7,8 @@ gem "jekyll-theme-chirpy", "~> 7.2", ">= 7.2.4"
 gem "html-proofer", "~> 5.0", group: :test
 
 gem "jekyll-feed", "~> 0.17"
+gem "jekyll-sitemap", "~> 1.4"
+gem "jekyll-seo-tag", "~> 2.8"
 
 platforms :mingw, :x64_mingw, :mswin, :jruby do
   gem "tzinfo", ">= 1", "< 3"
