@@ -4,6 +4,8 @@ date: 2022-07-17
 canonical_url: https://dev.to/gervg/newbie-anew-5101
 categories: [SoftwareDev]
 tags: [career, software-engineering, retrospective]
+image:
+  path: /assets/img/newbie-anew/banner.jpg
 ---
 
 I always tell people that “new things” make working in software development constantly exciting. And when I say new things, I just don’t mean bleeding-edge technology. I mean new problems, new approaches, or new patterns - even if they are just new to the person. What I have not told them is that with these exciting opportunities comes the nerve-wracking ordeal of facing unknowns.
@@ -108,6 +110,6 @@ That sounds like a student trying to reach the minimum word count. I guess I’m
 
 ## Credits
 
-- Cover photo by [Mick Haupt](https://unsplash.com/@rocinante_11) on Unsplash
+- Cover photo by [Mick Haupt](https://unsplash.com/@rocinante_11) on [Unsplash](https://unsplash.com/photos/blue-and-white-ladder-on-brown-rock-IQfhxGnPad0)
 
-_P.S. I had this in drafts for a long time and had already lost the source of the image. So I reverse image searched this and found an [interesting interpretation](https://www.reddit.com/r/Jung/comments/hnmayo/a_classic_example_of_the_shadow_self/) of the image. I think that kinda fits with this post's theme_
+_P.S. I had this in drafts for a long time and lost the source of the image somewhere along the way. When I first reverse image searched it, nothing turned up — though I did stumble on an [interesting interpretation](https://www.reddit.com/r/Jung/comments/hnmayo/a_classic_example_of_the_shadow_self/) of the image that kinda fits this post's theme. Then surprisingly, today (2026-07-27), I finally found it. So yeah, there's that._

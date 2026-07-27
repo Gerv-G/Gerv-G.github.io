@@ -13,9 +13,12 @@ Despite my blog's tagline, I do get some sleep. Just... not always when I should
 
 Welcome to a piece of my mind. This is a place where I'll dump my thoughts, lessons, and rants that come with working in tech. Occassionally, I'll write stuff about life because, after all, developers are people too.
 
+
+
 ## 🧰 What I Do
 
 Most of my day job revolves around backend (C#/.NET), but I also poke around frontend (React) and infra (AWS) when I need to.
+These days I'm also writing a fair bit of Python to build AI agents and MCP servers.
 I’m also the kind of person who actually likes writing documentation. Don’t judge.
 
 ## 📫 Let's connect
@@ -32,5 +35,18 @@ I don't know why you would, but if you have trouble finding ways to spend your m
 <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script>
 <script type='text/javascript'>kofiwidget2.init('Cast thy coin unto thy peasant', '#72a4f2', 'E1E31FGFW2');kofiwidget2.draw();</script> 
 
+
+---
+
+> **On AI Use, Honestly**
+> 
+> If you've gone poking around this blog's repo, you might've spotted a `CLAUDE.md`. <br/>
+> Oh no! How dare I use AI and pretend it's my work.
+> 
+> The words here, however, are mine: the thoughts, the opinions, and the questionable jokes included. Heck, even the em dash that I loved long before AI decided to claim it for itself. <br/>
+> AI only plays editor — proofreading, flagging clunky sentences, and saving me from the occasional rogue "their/there", the way a columnist still has someone catching their typos.
+> 
+> If anything here is ever meaningfully AI-generated, I'll say so up front.
+{: .prompt-info }
 
 ---
