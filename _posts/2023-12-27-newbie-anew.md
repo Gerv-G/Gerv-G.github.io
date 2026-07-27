@@ -112,4 +112,4 @@ That sounds like a student trying to reach the minimum word count. I guess I’m
 
 - Cover photo by [Mick Haupt](https://unsplash.com/@rocinante_11) on [Unsplash](https://unsplash.com/photos/blue-and-white-ladder-on-brown-rock-IQfhxGnPad0)
 
-_P.S. I had this in drafts for a long time and lost the source of the image somewhere along the way. When I first reverse image searched it, nothing turned up — though I did stumble on an [interesting interpretation](https://www.reddit.com/r/Jung/comments/hnmayo/a_classic_example_of_the_shadow_self/) of the image that kinda fits this post's theme. Then surprisingly, today, I finally found it. So yeah, there's that._
+_P.S. I had this in drafts for a long time and lost the source of the image somewhere along the way. When I first reverse image searched it, nothing turned up — though I did stumble on an [interesting interpretation](https://www.reddit.com/r/Jung/comments/hnmayo/a_classic_example_of_the_shadow_self/) of the image that kinda fits this post's theme. Then surprisingly, today (2026-07-27), I finally found it. So yeah, there's that._
