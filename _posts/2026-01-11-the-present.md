@@ -5,8 +5,6 @@ categories: [Literature]
 tags: [short-story, fiction]
 ---
 
-> 👉🏼 Source material: [The Gift Of Magi](https://americanenglish.state.gov/files/ae/resource_files/1-the_gift_of_the_magi_0.pdf)
-
 As soon as Time gave birth to her name, I began my breath to weave the threads that bind all things. I have watched stars ignite and wither; raised empires from grains of sand then ground them back to dust. I have crowned heroes and hollowed them into tyrants. I have written triumphs and tragedies across epochs. They are my will, my design.
 
 I am Fate.
@@ -156,3 +154,11 @@ I know not whose voice cursed me with this burden. I know only now the futility 
 So I set this down as my demission. I leave the loom behind and surrender the unfinished weave where it has always belonged.
 
 Let them draw their own fate.
+
+---
+
+> 👉🏼 Source material: [The Gift Of Magi](https://americanenglish.state.gov/files/ae/resource_files/1-the_gift_of_the_magi_0.pdf)
+
+## What inspired this
+
+<!-- Space for your note on what inspired this story. Replace this line when you're ready. -->
