@@ -3,6 +3,8 @@ title: The Present
 date: 2026-01-11
 categories: [Literature]
 tags: [short-story, fiction]
+image:
+  path: /assets/img/the-present/banner.jpg
 ---
 
 As soon as Time gave birth to her name, I began my breath to weave the threads that bind all things. I have watched stars ignite and wither; raised empires from grains of sand then ground them back to dust. I have crowned heroes and hollowed them into tyrants. I have written triumphs and tragedies across epochs. They are my will, my design.
@@ -157,8 +159,16 @@ Let them draw their own fate.
 
 ---
 
-> 👉🏼 Source material: [The Gift Of Magi](https://americanenglish.state.gov/files/ae/resource_files/1-the_gift_of_the_magi_0.pdf)
-
 ## What inspired this
 
-<!-- Space for your note on what inspired this story. Replace this line when you're ready. -->
+As I was trying to _unrot_ my brain from hundreds, if not thousands, of hours of doom scrolling, I looked for something to do during the holiday break last Dec 2025.
+Then my good friend, Gel, gave me a prompt: retell a children's story or fairy tale from the villain's perspective.
+
+But I didn't really grow up being read fairy tales, and when I was a kid watching Disney adaptations, I didn't understand English well. I just enjoyed looking at cartoons.
+
+So instead, I tried to recall some feel-good stories I came across when I was in high school. I ended up with [The Gift of the Magi](https://americanenglish.state.gov/files/ae/resource_files/1-the_gift_of_the_magi_0.pdf).
+Sorry, it's not a villain in the strictest sense, but I hope you get the idea.
+
+---
+
+_Cover photo by [Thomas Bormans](https://unsplash.com/@thomasbormans) on [Unsplash](https://unsplash.com/photos/round-black-and-brown-analog-clock-JsTmUnHdVYQ)_
