@@ -1,0 +1,30 @@
+_posts/2026-01-11-the-present.md
+  s_15c25c5461ec45::t_2befda33618f2c 167
+  s_15c25c5461ec45::t_f5042eac474af7 164
+  s_15c25c5461ec45::t_9e7c8e4fedb645 168,172-173
+  s_15c25c5461ec45::t_5feb736181eea6 169
+  s_15c25c5461ec45::t_1c74f840973e43 165
+  s_15c25c5461ec45::t_9850d7c3fa121a 6-7
+  h_4201547b791f6a 166,170-171,174
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "738c95038a3d79fdcaf69dc432323119262bef63",
+  "prompts": {},
+  "humans": {
+    "h_4201547b791f6a": {
+      "author": "Gerv-G <25771885+Gerv-G@users.noreply.github.com>"
+    }
+  },
+  "sessions": {
+    "s_15c25c5461ec45": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7b2d9a95-a922-4adb-ba59-7dc553d07f1d",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Gerv-G <25771885+Gerv-G@users.noreply.github.com>"
+    }
+  }
+}
