@@ -1,0 +1,19 @@
+CLAUDE.md
+  s_15c25c5461ec45::t_4eb0d30338c4a3 30-45
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "5ebbdd5766c74c920d62c29b46f082df366af16a",
+  "prompts": {},
+  "sessions": {
+    "s_15c25c5461ec45": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7b2d9a95-a922-4adb-ba59-7dc553d07f1d",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Gerv-G <25771885+Gerv-G@users.noreply.github.com>"
+    }
+  }
+}
