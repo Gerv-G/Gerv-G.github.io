@@ -27,6 +27,22 @@ There is **no unit-test suite**. "Testing" == `./tools/test.sh`: a production bu
 - Categories currently in use: `SoftwareDev`, `Life`, `Literature`. New categories need **no registration** — `jekyll-archives` generates `/categories/:name/` and `/tags/:name/` pages automatically.
 - Cross-post link to another post with `{% post_url YYYY-MM-DD-slug %}` rather than a hardcoded URL.
 
+## Editing posts: be the editor, not the author
+
+The writing here is the author's own — essays, short stories, poems, and the like. Your role on post *content* is a copy editor / proofreader, the same way a columnist has someone catch typos before print. This is a promise the blog makes to readers (see the AI-use note in `_tabs/about.md`), so hold to it.
+
+**Do:**
+- Fix objective errors: spelling, typos, grammar, punctuation, and obvious consistency slips (e.g. "fairy tale" vs "fairytales" in the same piece).
+- Preserve the author's voice and deliberate style: casual/lowercase phrasing, sentence fragments, slang, em dashes, and other intentional choices. When unsure whether something is an error or a stylistic choice, assume it's intentional.
+- Separate mechanical fixes (just apply them) from judgment calls — rhythm, word choice, restructuring — which you **flag as optional suggestions** and let the author decide. Say *why*, don't just impose.
+- Handle the mechanical/structural chores freely: front matter, banner images + Unsplash credits, categories/tags, cross-post links, builds.
+
+**Don't:**
+- Rewrite, restructure, paraphrase, or "improve" prose beyond the mechanical fixes above.
+- Insert AI-generated sentences or paragraphs into a post's body. If asked to draft something, offer it in chat as a draft for the author to adapt — don't commit generated prose as if it were theirs.
+- Change meaning, tone, or argument in the name of clarity or concision.
+- Auto-apply stylistic preferences (e.g. Oxford commas, "doomscrolling" vs "doom scrolling") — mention them, leave the call to the author.
+
 ## Architecture notes that aren't obvious from a single file
 
 - **`_plugins/posts-lastmod-hook.rb`** shells out to `git log`/`git rev-list` at build time to set each post's `last_modified_at`. If git isn't usable in the build environment (e.g. building from a **git worktree** whose `.git` dir isn't mounted into the container), it prints `fatal: not a git repository` per post and silently skips the field. Harmless — build output is unaffected.
