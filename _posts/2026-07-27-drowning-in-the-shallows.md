@@ -3,6 +3,8 @@ title: Drowning in The Shallows
 date: 2026-07-27
 categories: [Life]
 tags: [essay, society, education]
+image:
+  path: /assets/img/drowning-in-the-shallows/banner.jpg
 ---
 
 I had an unconventional high school teacher who handled our Social Studies and Economics classes. “Unconventional,” however, might be more generous than accurate.
@@ -48,3 +50,7 @@ Perhaps this essay is no different. Perhaps it, too, is an exercise in futility.
 But maybe, that is how silence begins. Not always in ignorance, but in quiet suspicion that thoughtful words no longer carry any weight. In a society where intellect is ridiculed, and foolishness applauded, I would not be surprised if many have resigned themselves to silence.
 
 So no, sir. Silent water still runs deep. But even the deepest rivers cannot be heard above the applause for the shallow.
+
+---
+
+_Cover photo by [Damien Schnorhk](https://unsplash.com/@damienschnorhk) on [Unsplash](https://unsplash.com/photos/gray-rocks-on-river-during-daytime-XTgBvT6C3og)_
