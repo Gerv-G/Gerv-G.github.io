@@ -1,0 +1,20 @@
+tools/test.sh
+  s_15c25c5461ec45::t_2a064bfe9f639a 37
+  s_15c25c5461ec45::t_911c04ad55860f 47
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "3cfdd8afe59551dc043d74e0c358008fb3116b11",
+  "prompts": {},
+  "sessions": {
+    "s_15c25c5461ec45": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7b2d9a95-a922-4adb-ba59-7dc553d07f1d",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Gerv-G <25771885+Gerv-G@users.noreply.github.com>"
+    }
+  }
+}
