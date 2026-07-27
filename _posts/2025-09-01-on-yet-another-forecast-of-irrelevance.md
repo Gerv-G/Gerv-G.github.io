@@ -3,6 +3,8 @@ title: On Yet Another Forecast Of Our Irrelevance
 date: 2025-09-01
 categories: [SoftwareDev]
 tags: [career, artificial-intelligence, software-engineering, product-engineering]
+image:
+  path: /assets/img/on-yet-another-forecast-of-irrelevance/banner.jpg
 ---
 
 Three scores and six years ago, our fathers brought forth to this digital world a new language, conceived in business, and dedicated to the proposition that all men can code.
@@ -150,3 +152,7 @@ So maybe I’m finally living up to the thing I’ve been shouting for a while n
 While my adventure is far from over (I hope), I already feel like I’ve come back carrying a small elixir: a reminder that our careers may not be in danger but it is nudging us to not cling on the keyboard and start seeing with a wider lens. The future of engineering isn’t just in the elegance of our code or the brilliance of our architectures. It’s also in how well we connect those to real problems and real people. The mindset of a product engineer will help us stay relevant long after the AI can outperform us. It has been said again and again, that AI is a tool, but I’d also like to add that it is not an antagonist as some portray it to be (well, at least not until Skynet finally goes live).
 
 So your next mission, should you choose to accept, is to expand how we think about our **craft**. The future won’t wait and neither should we.
+
+---
+
+_Cover photo by [Srikanta H. U](https://unsplash.com/@srikanta) on [Unsplash](https://unsplash.com/photos/body-of-water-IvRJYGFTjtY)_
