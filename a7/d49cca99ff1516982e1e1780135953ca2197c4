@@ -1,0 +1,20 @@
+_posts/2023-12-27-newbie-anew.md
+  s_15c25c5461ec45::t_c5a7a31e5abb8f 7-8
+  s_15c25c5461ec45::t_cdda3e96ac6ca0 113
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "a7d49cca99ff1516982e1e1780135953ca2197c4",
+  "prompts": {},
+  "sessions": {
+    "s_15c25c5461ec45": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7b2d9a95-a922-4adb-ba59-7dc553d07f1d",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Gerv-G <25771885+Gerv-G@users.noreply.github.com>"
+    }
+  }
+}
