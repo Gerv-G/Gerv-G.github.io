@@ -1,0 +1,20 @@
+_posts/2026-07-27-drowning-in-the-shallows.md
+  s_15c25c5461ec45::t_166a96cd22d5fa 6-7
+  s_15c25c5461ec45::t_1b3f9a789f2787 53-56
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "836cfb25290c5102cf73bcff30a1c762bc441382",
+  "prompts": {},
+  "sessions": {
+    "s_15c25c5461ec45": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7b2d9a95-a922-4adb-ba59-7dc553d07f1d",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Gerv-G <25771885+Gerv-G@users.noreply.github.com>"
+    }
+  }
+}
